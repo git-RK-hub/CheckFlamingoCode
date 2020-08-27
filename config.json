@@ -1,0 +1,9 @@
+{
+  "apiUrl": "http://167.71.231.78/api/",
+  "frontendUrl": "https://www.flamingocourses.com",
+  "devFrontendUrl": "http://localhost:3000",
+  "digitalOceanUrl": "https://flamingospaces.sgp1.digitaloceanspaces.com/",
+  "mongoDevURI": "mongodb://AdminFlamingo:Flamingo%401Courses@167.71.231.78:27017/flamingo",
+  "mongoProdURI": "mongodb://localhost:27017/flamingo",
+  "mongoAtlasURI": "mongodb+srv://pragnya_tata:Pragnya%4025@cluster0-gs837.mongodb.net/<flamingo-backend>?retryWrites=true&w=majority"
+}
